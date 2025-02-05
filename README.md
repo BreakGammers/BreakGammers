@@ -1,4 +1,4 @@
-# Hi there, I'm Mathieu 👋
+# Hi there, Muhammad Haseeb 👋
 
 Welcome to my GitHub profile! I am a seasoned **Unity Developer** with 6+ years of experience in **game development, augmented reality (AR), virtual reality (VR), and blockchain integration**. I specialize in building **interactive experiences, multiplayer games, AI-powered simulations, and AR/VR applications**. My work spans across mobile, PC, and web-based platforms, delivering immersive and scalable solutions.
 
@@ -58,9 +58,8 @@ Developed a **video call app** with **side-by-side (SBS) video streaming**, enab
 I'm actively looking for **freelance Unity projects** and **remote game development roles**. If you have an opportunity related to **AR/VR, multiplayer gaming, blockchain integration, or AI simulations**, let's connect!
 
 ## 📫 Get in Touch
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/mathieu](#)
-- **Upwork:** [upwork.com/freelancers/mathieu](#)
-- **Twitter:** [twitter.com/mathieu_dev](#)
+
+- **LinkedIn:** [https://www.linkedin.com/in/haseeb0016/](#)
+
 
 Thanks for visiting my GitHub! Let's create amazing experiences together. 🚀
